@@ -4,12 +4,12 @@ More information about Adrien Ecoffet's work can be found in https://github.com/
 
 The GUI code in this work is available by reasonable request.
 
-**Auto-experiment**
+**GUI in auto-experiment**
 
 
 ![image](GUI_pic/auto-experiment.png)
 
 
-**Prediction and feedback control**
+**GUI in Prediction and feedback control**
 
 ![image](GUI_pic/predic&feedback_ctrl.png)
