@@ -10,4 +10,4 @@ Auto-experiment
 
 Prediction and feedback control
 
-![image](GUI_pic/predict&feedback_ctrl.png)
+![image](GUI_pic/predic&feedback_ctrl.png)
