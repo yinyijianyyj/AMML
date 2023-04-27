@@ -5,9 +5,9 @@ More information about Adrien Ecoffet's work can be found in https://github.com/
 Auto-experiment
 
 
-![image](GUI_pic/GUI.png)
+![image](GUI_pic/auto-experiment.png)
 
 
 Prediction and feedback control
 
-![image](GUI_pic/GUI.png)
+![image](GUI_pic/predict&feedback_ctrl.png)
